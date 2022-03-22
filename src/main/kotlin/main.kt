@@ -2,16 +2,16 @@
 
 fun main() {
 
-val studentName= ("Madai Puzo")
+val studentName= ("salma suleiman")
     println(studentName)
 
-    val age= (22)
+    val age= (23)
     println(age)
 
 val phoneNumber= (250523436)
     println(phoneNumber)
 
-    val weightKg: Float =63.45F
+    val weightKg: Float =100.45F
     println(weightKg)
 
 
