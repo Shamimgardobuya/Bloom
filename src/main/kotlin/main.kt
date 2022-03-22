@@ -2,8 +2,8 @@
 
 fun main() {
 
-val studentName= ("salma suleiman")
-    println(studentName)
+val student1= ("salma suleiman")
+    println(student1)
 
     val age= (23)
     println(age)
