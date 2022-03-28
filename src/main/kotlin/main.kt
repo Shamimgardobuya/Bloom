@@ -11,7 +11,7 @@ val student1= ("salma suleiman")
 val phoneNumber= (250523436)
     println(phoneNumber)
 
-    val weightKg: Float =100.45F
+    val weightKg: Float =400.45F
     println(weightKg)
 
 
