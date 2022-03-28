@@ -5,7 +5,7 @@ fun main() {
 val student1= ("salma suleiman")
     println(student1)
 
-    val age= (23)
+    val age= (24)
     println(age)
 
 val phoneNumber= (250523436)
